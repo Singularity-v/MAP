@@ -17,8 +17,10 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.1.tar.gz",
     "react-native-elements": "^2.0.0",
     "react-native-maps": "^0.26.1",
+    "react-native-svg": "^12.1.0",
     "react-native-web": "~0.11.7",
-    "save": "^2.4.0"
+    "save": "^2.4.0",
+    "victory-native": "^34.3.0"
   },
   "devDependencies": {
     "babel-preset-expo": "~8.1.0",
